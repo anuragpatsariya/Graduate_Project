@@ -1,0 +1,62 @@
+{
+  "name": "lf-ng-md-file-input",
+  "version": "1.4.4",
+  "description": "angular material file input with more feature.",
+  "main": "./dist/lf-ng-md-file-input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuyu/angular-material-fileinput.git"
+  },
+  "keywords": [
+    "angular",
+    "material",
+    "file",
+    "input"
+  ],
+  "author": {
+    "name": "shuyu",
+    "email": "lfshuyu@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shuyu/angular-material-fileinput/issues"
+  },
+  "homepage": "https://github.com/shuyu/angular-material-fileinput#readme",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-minify-css": "^1.2.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.1"
+  },
+  "gitHead": "09286b8477f79ddc2f7d8ecab9d27b4278b88b51",
+  "_id": "lf-ng-md-file-input@1.4.4",
+  "_shasum": "c94dc55980e17c61bc1f28cfde7e255717eb2da3",
+  "_from": "lf-ng-md-file-input@latest",
+  "_npmVersion": "2.14.12",
+  "_nodeVersion": "4.3.0",
+  "_npmUser": {
+    "name": "lfshuyu",
+    "email": "lfshuyu@gmail.com"
+  },
+  "dist": {
+    "shasum": "c94dc55980e17c61bc1f28cfde7e255717eb2da3",
+    "tarball": "https://registry.npmjs.org/lf-ng-md-file-input/-/lf-ng-md-file-input-1.4.4.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "lfshuyu",
+      "email": "lfshuyu@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/lf-ng-md-file-input-1.4.4.tgz_1460619462072_0.49133090232498944"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lf-ng-md-file-input/-/lf-ng-md-file-input-1.4.4.tgz"
+}
